@@ -1,3 +1,3 @@
-# `export-xlsx-linux-x64-gnu`
+# `@cloud-2303/xlsx-export-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `export-xlsx`
+This is the **x86_64-unknown-linux-gnu** binary for `@cloud-2303/xlsx-export`

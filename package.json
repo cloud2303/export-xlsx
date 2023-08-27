@@ -1,10 +1,10 @@
 {
-  "name": "export-xlsx",
+  "name": "@cloud-2303/xlsx-export",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "export-xlsx",
+    "name": "xlsx-export",
     "triples": {}
   },
   "license": "MIT",

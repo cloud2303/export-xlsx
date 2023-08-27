@@ -1,3 +1,3 @@
-# `export-xlsx-darwin-x64`
+# `@cloud-2303/xlsx-export-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `export-xlsx`
+This is the **x86_64-apple-darwin** binary for `@cloud-2303/xlsx-export`

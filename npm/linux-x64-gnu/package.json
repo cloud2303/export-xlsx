@@ -1,5 +1,5 @@
 {
-  "name": "export-xlsx-linux-x64-gnu",
+  "name": "@cloud-2303/xlsx-export-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "export-xlsx.linux-x64-gnu.node",
+  "main": "xlsx-export.linux-x64-gnu.node",
   "files": [
-    "export-xlsx.linux-x64-gnu.node"
+    "xlsx-export.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

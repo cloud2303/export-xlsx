@@ -1,5 +1,5 @@
 {
-  "name": "export-xlsx-darwin-x64",
+  "name": "@cloud-2303/xlsx-export-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "export-xlsx.darwin-x64.node",
+  "main": "xlsx-export.darwin-x64.node",
   "files": [
-    "export-xlsx.darwin-x64.node"
+    "xlsx-export.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {
