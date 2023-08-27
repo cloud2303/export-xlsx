@@ -30,5 +30,6 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
-  }
+  },
+  "description": "aa"
 }
