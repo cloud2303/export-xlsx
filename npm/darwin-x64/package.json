@@ -1,6 +1,6 @@
 {
   "name": "@cloud-2303/xlsx-export-darwin-x64",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "os": [
     "darwin"
   ],
